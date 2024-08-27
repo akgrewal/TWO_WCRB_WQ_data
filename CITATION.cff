@@ -1,4 +1,4 @@
-cff-version: 1
+cff-version: 2
 message: "Citation guidelines for data use"
 authors:
   - family-names: Grewal
@@ -11,5 +11,5 @@ title: "TWO_WCRB_WQ_data"
 version: 1
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.13362700
+    value: 10.5281/zenodo.13381019
 date-released: 2024-08-27
